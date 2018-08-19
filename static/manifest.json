@@ -3,12 +3,22 @@
   "short_name": "restomem",
   "icons": [
     {
-      "src": "/static/img/icons/resto.jpg",
+      "src": "/static/img/icons/64x64.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/static/img/icons/resto.jpg",
+      "src": "/static/img/icons/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/icons/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/icons/512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
